@@ -1,4 +1,4 @@
-# Study Project - Redmi
+# Study Project
 
 ## API
 
